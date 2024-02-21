@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
-- 💬 <span style="padding-right: 30px;">Contacts</span>  <a href="https://t.me/vladislavponomaryov96"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
-<a href="https://www.linkedin.com/in/vladislavponomaryov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<!-- - 💬 <span style="padding-right: 30px;">Contacts</span>  <a href="https://t.me/vladislavponomaryov96"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+<a href="https://www.linkedin.com/in/vladislavponomaryov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> -->
 
 ---
 
